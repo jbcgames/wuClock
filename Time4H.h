@@ -305,6 +305,7 @@ uint8_t t4h_get_month(time_h_t * T);
  */
 uint16_t t4h_get_year(time_h_t * T);
 
+
 /**
  * \fn void t4h_refresh_time(time_h_t * T)
  * \brief Refresh the time in the time handler from the RTC
